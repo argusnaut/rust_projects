@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "cargo",
+            "name": "Launch Run",
+            "cargoArgs": ["run"],
+        },
+        {
+            "type": "cargo",
+            "name": "Debug Run",
+            "cargoExtraArgs": ["with rust-gdb"],
+            "cargoArgs": ["run"],
+        }
+
+    ]
+}
