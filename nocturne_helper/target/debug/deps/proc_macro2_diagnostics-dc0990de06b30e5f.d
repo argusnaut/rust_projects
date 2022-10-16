@@ -1,0 +1,10 @@
+C:\Users\vitor\source\repos\rust_projects\nocturne_helper\target\debug\deps\proc_macro2_diagnostics-dc0990de06b30e5f.rmeta: C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\lib.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\ext.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\diagnostic.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\line.rs
+
+C:\Users\vitor\source\repos\rust_projects\nocturne_helper\target\debug\deps\libproc_macro2_diagnostics-dc0990de06b30e5f.rlib: C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\lib.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\ext.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\diagnostic.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\line.rs
+
+C:\Users\vitor\source\repos\rust_projects\nocturne_helper\target\debug\deps\proc_macro2_diagnostics-dc0990de06b30e5f.d: C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\lib.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\ext.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\diagnostic.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\line.rs
+
+C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\lib.rs:
+C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\ext.rs:
+C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\diagnostic.rs:
+C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.9.1\src\line.rs:

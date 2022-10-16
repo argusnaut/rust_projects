@@ -1,0 +1,51 @@
+use rocket::serde::{Deserialize, Serialize};
+
+#[derive(Debug, Deserialize, Serialize, Clone, Copy)]
+pub enum Resistance {
+    Absorbs,
+    Repels,
+    Nullifies,
+    Resists,
+    None,
+    Weak,
+}
+
+#[derive(Debug, Deserialize, Serialize, Clone, Copy)]
+pub enum DemonRace {
+    Avatar,
+    Avian,
+    Beast,
+    Broker,
+    Brute,
+    Deity,
+    DFiend,
+    Divine,
+    Dragon,
+    Element,
+    Entity,
+    Fairy,
+    Fallen,
+    Femme,
+    Fiend,
+    Foul,
+    Fury,
+    Genma,
+    Haunt,
+    Holy,
+    Jirae,
+    Kishin,
+    Lady,
+    Magatama,
+    Megami,
+    Mitama,
+    Night,
+    Raptor,
+    Seraph,
+    Snake,
+    Summoner,
+    Tyrant,
+    Vile,
+    Wargod,
+    Wilder,
+    Yoma,
+}

@@ -1,0 +1,12 @@
+C:\Users\vitor\source\repos\rust_projects\nocturne_helper\target\debug\deps\tempfile-56df3fdb6fd0ea24.rmeta: C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\lib.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\dir.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\error.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\mod.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\mod.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\spooled.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\util.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\windows.rs
+
+C:\Users\vitor\source\repos\rust_projects\nocturne_helper\target\debug\deps\tempfile-56df3fdb6fd0ea24.d: C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\lib.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\dir.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\error.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\mod.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\mod.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\spooled.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\util.rs C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\windows.rs
+
+C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\lib.rs:
+C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\dir.rs:
+C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\error.rs:
+C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\mod.rs:
+C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\mod.rs:
+C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\spooled.rs:
+C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\util.rs:
+C:\Users\vitor\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\windows.rs:
